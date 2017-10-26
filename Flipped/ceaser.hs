@@ -23,9 +23,7 @@
 module Caesar where
 
 import Data.Char
-import Math.Algebra.Field.Base
 import Data.List
-import Test.QuickCheck
 
 -----------------------------------------------------------------------------
 -- Caesar Cipher Example
